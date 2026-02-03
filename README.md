@@ -2,21 +2,15 @@
 
 <div align="center">
   I'm a Telecommunications Technology Engineer specialized in Telematics.<br>
-  Passionnate about cybersecurity and software development.<br>
-  You can visit my <a href="https://martapisa.github.io/">personal portfolio</a> 🚀.<br>
+  Passionate about cybersecurity and software development.<br>
+  You can visit my <a href="https://martapisa.github.io/">personal portfolio</a> 🚀.
 </div>
 
 <br>
 
 <h3 align="center">📫 Find me on</h3>
 <p align="center">
-  <a href="mailto:martapisa20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/martapisa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="mailto:martapisa20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://linkedin.com/in/martapisa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <br>
@@ -24,6 +18,18 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=martapisa&theme=github-dark-dimmed&border_radius=25&card_width=500&border=000000&stroke=000000&ring=141414&fire=B64141&sideLabels=ADBAC7&currStreakLabel=ADBAC7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F8992" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=martapisa&theme=github-dark-dimmed&border_radius=25&card_width=500&border=ADBAC7&stroke=000000&ring=141414&fire=B64141&sideLabels=ADBAC7&currStreakLabel=ADBAC7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F8992" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martapisa&layout=compact&theme=tokyonight" alt="Most Used Languages" 
+    
+  
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/ellerbrock/open-source-badges/">
+    <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source Love" />
   </a>
 </p>
