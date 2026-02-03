@@ -18,12 +18,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=martapisa&theme=github-dark-dimmed&border_radius=25&card_width=500&border=ADBAC7&stroke=000000&ring=141414&fire=B64141&sideLabels=ADBAC7&currStreakLabel=ADBAC7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F8992" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=martapisa&theme=github-dark-dimmed&border_radius=25&card_width=500&border=000000&stroke=000000&ring=141414&fire=B64141&sideLabels=ADBAC7&currStreakLabel=ADBAC7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F8992" alt="GitHub Streak" />
   </a>
-  <br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martapisa&layout=compact&theme=tokyonight" alt="Most Used Languages" 
-    
-  
 </p>
 
 <br>
